@@ -5,7 +5,7 @@
 # Name: Vikas Otageri- 2KL18CS110 
 vikasotageri234@gmail.com
 
-    -------------------------------------Quora for Engineering Students------------------------------------                                                                                          
+                                                 Quora for Engineering Students                                                                                      
 
 # How To Run?
 
@@ -13,3 +13,5 @@ You’ll need XAMP Server or WAMP Server. Put the file inside “c:/xampp/htdocs
     Don’t Forget To create a database and import sql file to run.
     
 [Intership-Report.pdf](https://github.com/vikas2340/Compsoft-technologies-Intership-ProjectReport/files/8523283/Intership-Report.pdf)
+
+       [Intership-Report.pdf](https://github.com/vikas2340/Compsoft-technologies-Intership-ProjectReport/files/8523283/Intership-Report.pdf)
