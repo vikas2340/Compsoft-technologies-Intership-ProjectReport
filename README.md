@@ -1,13 +1,13 @@
 # Compsoft-technologies-Intership-ProjectReport
-Compsoft technologies-T31
-Project Code-CST2191G6DHN 
+    Compsoft technologies-T31
+    Project Code-CST2191G6DHN 
 
-Name: Vikas Otageri- 2KL18CS110
-vikasotageri234@gmail.com
+# Name: Vikas Otageri- 2KL18CS110
+                 vikasotageri234@gmail.com
 
-----------------------------------------------------Quora for Engineering Students-----------------------------------------------------------                                                                                          
+    -------------------------------------Quora for Engineering Students------------------------------------                                                                                          
 
-How To Run?
+# How To Run?
 
 You’ll need XAMP Server or WAMP Server. Put the file inside “c:/xampp/htdocs/”. Go To “http://localhost/phpmyadmin” in any browser and create Database named “quora” .In That Database, Import (db)database quora.sql and finally open go to URL: “http://localhost/quora/”
     
@@ -16,4 +16,4 @@ You’ll need XAMP Server or WAMP Server. Put the file inside “c:/xampp/htdocs
     
     
 
-[Intership-Report.pdf](https://github.com/vikas2340/Compsoft-technologies-Intership-ProjectReport/files/8523283/Intership-Report.pdf)
+    [Intership-Report.pdf](https://github.com/vikas2340/Compsoft-technologies-Intership-ProjectReport/files/8523283/Intership-Report.pdf)
