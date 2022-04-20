@@ -1,0 +1,242 @@
+@import url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap");
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: center;
+    
+  }
+  
+  .login__container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+  }
+  
+  .login__logo {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .login__desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .login__desc > h3 {
+    margin-top: 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: "Cedarville Cursive", cursive;
+  }
+  .login__desc > p {
+    color: gray;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    font-family:'Roboto',sans-serif ;
+  }
+  
+  .login__auth {
+    display: flex;
+    
+    font-size: medium;
+    font-family: 'Roboto',sans-serif;
+  }
+  
+  .login__authOptions {
+    display: flex;
+    flex: 0.5;
+    flex-direction: column;
+    padding: 20px;
+    border-right: 1px solid lightgray;
+  }
+  
+  .login__authOption {
+    display: flex;
+    align-items: center;
+    padding: 7px;
+    margin-bottom: 15px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+    
+  }
+  
+  .login__authOption:hover {
+    background-color: rgb(226, 226, 226);
+  }
+  
+  .login__authOption > img {
+    height: 30px;
+    object-fit: contain;
+  }
+  
+  .login__authOption > p {
+    margin-left: 11px;
+    
+  }
+  
+  .login__authDesc {
+    display: flex;
+    align-items: center;
+    padding: 7px;
+    margin-bottom: 15px;
+  }
+  .login__authDesc > p {
+    font-size: medium;
+    color: gray;
+    font-family: 'Roboto',sans-serif;
+  }
+  
+
+  
+  .login__emailPass {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: auto;
+  }
+  
+  .login__label > h4 {
+    padding: 5px;
+    font-family: 'Roboto',sans-serif;
+  }
+  
+  .login__inputFields {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    
+    
+  }
+  
+  .login__inputField {
+    padding: 5px;
+    align-items: center;
+  }
+  
+  .login__inputField > input {
+    padding: 10px;
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: rgb(236, 236, 236);
+    font-family: 'Roboto',sans-serif;
+    font-size: medium;
+  }
+  
+  .login__forgButt {
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .login__forgButt > small {
+    color: gray;
+    cursor: pointer;
+  }
+  
+  .login__forgButt > small:hover {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  .login__forgButt > button {
+    padding: 9px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    font-family: 'Roboto',sans-serif;
+  }
+  
+  .login__emailPass > button {
+    padding: 9px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: rgb(9, 76, 219);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-family: 'Roboto',sans-serif;
+  }
+
+  .forg_pass{
+    margin-top: 10px;
+    margin-top: 40px;
+    color: gray;
+    
+  }
+  .forg_pass:hover{
+    
+    color: rgb(22, 19, 221);
+    
+  }
+  
+  .login__lang {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    margin-top: 30px;
+    padding: 10px;
+  }
+  
+  .login__lang > p {
+    color: gray;
+    margin-right: 5px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+  
+  .login__lang > p:hover {
+    color: gray;
+    margin-right: 5px;
+    text-decoration: underline;
+  }
+  
+  .login__lang > .MuiSvgIcon-root {
+    color: gray;
+  }
+  
+  .login__footer {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .login__footer > p {
+    color: gray;
+    font-size: medium;
+    cursor: pointer;
+    font-family: 'Roboto',sans-serif;
+  }
+  
+  .login__footer > p:hover {
+    text-decoration: underline;
+    font-family: 'Roboto',sans-serif;
+  }
+  
+
